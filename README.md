@@ -12,6 +12,9 @@
 - Design
 - Components Config 
 
+[최세환](https://github.com/Mactto)
+- Components Config
+
 ## ✔ 체크리스트  
 - [x] Component Config
 - [x] Design
